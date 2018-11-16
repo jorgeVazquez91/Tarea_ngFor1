@@ -1,0 +1,7 @@
+{
+  "name": "Tarea_ngFor",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
